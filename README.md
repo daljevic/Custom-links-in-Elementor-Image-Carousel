@@ -1,4 +1,4 @@
-# Custom Carousel Links for Elementor
+# Daljevic SlideLinker for Elementor
 
 Adds per-image custom links to Elementor's Image Carousel widget by extending WordPress Media Library attachment fields.
 
@@ -29,7 +29,7 @@ When those fields are filled, the plugin updates the frontend output of the Elem
 
 ## Installation
 
-1. Upload `custom-carousel-links-for-elementor.zip` through `Plugins > Add New > Upload Plugin`, or copy the plugin folder into `/wp-content/plugins/`.
+1. Upload `daljevic-slidelinker-for-elementor.zip` through `Plugins > Add New > Upload Plugin`, or copy the plugin folder into `/wp-content/plugins/`.
 2. Activate the plugin in WordPress.
 3. Open the Media Library and edit an image.
 4. Fill in the `Custom link` field and optionally enable `Open in new tab?`
@@ -37,12 +37,12 @@ When those fields are filled, the plugin updates the frontend output of the Elem
 
 ## Package Contents
 
-- `custom-carousel-links-for-elementor/custom-carousel-links-for-elementor.php`
-- `custom-carousel-links-for-elementor/readme.txt`
-- `custom-carousel-links-for-elementor/license.txt`
-- `custom-carousel-links-for-elementor/uninstall.php`
-- `custom-carousel-links-for-elementor/languages/`
-- `custom-carousel-links-for-elementor.zip`
+- `daljevic-slidelinker-for-elementor/daljevic-slidelinker-for-elementor.php`
+- `daljevic-slidelinker-for-elementor/readme.txt`
+- `daljevic-slidelinker-for-elementor/license.txt`
+- `daljevic-slidelinker-for-elementor/uninstall.php`
+- `daljevic-slidelinker-for-elementor/languages/`
+- `daljevic-slidelinker-for-elementor.zip`
 
 ## Development Notes
 
